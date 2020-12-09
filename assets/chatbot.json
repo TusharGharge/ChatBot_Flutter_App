@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "vocal-camera-296509",
+  "private_key_id": "102f2759b653f0cac7f476052bc705efa9f06d67",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC5aBG9lfdSMmve\nNttl36z5ebTm+YgFVLt1cpCY+knw8bpMjZsfh8rPg4xYx3AyOgUUKVwsvqi1IvV0\nlh8CeW6zU7U+lMzGjAI+Ro5CcmK7DdPt8n8y138zkSa+XNdWAgHEAPoxvW/NJQ0A\nupdZ5CHwngFaHgcvWoimDkPH7ysvHLRrg5yeyb0YijmSrdp4CkZONMQj5hFfU0RG\nhgChWG3QFuFvbpmjtJ5z7snDNLAXX3qdH0q0Ectam+IMgQhR+lgHxAmkhkvIWJ8V\nln0oM9J30xZB/+qTh53/jaVVAHTQFIh3Q1w/2s00S3YibYNOJZ6CCselHAyj3vZJ\nsyoeZTJTAgMBAAECggEAFWxgWxG7CYpooGf3o1Ex1tnTUg+/QdkamBBBg7ZYA46g\nQjw9PRV0an9UIOYFTChxccpIVlCULz9M3B3Z6MVIn1FVfgJfmbQ6hiD3oIHrGpts\nbkWOS7z5e7ySnNMe0VdbW4npXwSj/dusIaDDNaXWA3bzx7VJ4JTgzp8+AcTcWThm\nL375p6QAiKotd2Or+ZNeR7cZbVy4O446dCBayH5KFZs//QIM4zlbkLHJfaAcHpvc\nGHT7Scq4HEn9B74q5zmZw2+GVlQ9pWrMYgf5HK3Jj3t+UNtfnjPPUdWRRmyaXEb8\nEOQGncOKAUZ7vwf/XvATqpZIEjjIjINzQLSTothnIQKBgQDgN+HPDJUXGCqcnpKf\n4GdKHnu0m7LRLQX58FvCZad0QfJ2lWP1820VQuCNaGohz/9rqemuXCckAnAXPxRd\nuGD4571lhzedSYZbGv94WEYRhLuAsgHKhoR0XJkDw/lM4jjW32SOcSbxmAbyJObe\nCK1j1Z0TjocaRZYNfQSJGVf7yQKBgQDTr9ch1uNZ02NCezkzyfwDC9HQHop1+8TT\nzS3dBiyd7CrarC1T4umHdFndRH4vk2TVwzD6BuUobQmDezafdvFBeefirsPxiFbt\nHXFjWzNis4BpWu2W4Zo+4OzojxgIR5nUFFFPPuMxm3wgGW+ICBMP1JdxUObX6S57\nLGF+wpxTOwKBgE7iOjaO9bEPVoaNn4ZR++TuvpT3Jj1DetPJRW8qNnTHctdXjbiN\nMPaG9duqPZSxyeoF+GnYkAiyNt9m2PJ0GOHZHiAnJ2DV6kgJQpIDdHtbWGBZwBmR\no+4QWeEiRIZRHLA0HfujQZFD7EWqx/Kb2OzDzaSAw3Vxv+306vCVEwhJAoGBAIYx\nHRali4Ag4fZ9+NgcvfYMYxgklC+Qx8hgdCd9x4Dg+pWeuilIWjP1DRaYWcm9DRn5\nX63P+yryXCqOTCUwmGWiat4nXa1aeYhctsl+QgfatJeU/bI9F7OukGAofdqZ0SlB\nK/4pZorG/xu2JB6+x56sbMh3ua67cizBCJj7s2+LAoGAalgfMA7PjH4G05LJW4B5\ntBheC5USqf5YGUzZLc5UMFnUO/n/AGxsmaIXddW7Rrd8LJtjnWzXTREh4XwQJkZV\n3UZj4j0T8a8qvsNb3v6kEyWfbjUh4KZNZJlXtP55kzAarxV+HbbEiJXR4haPJE7X\n+gch/oSIw+lotPlrxKH1HEU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "what-supchatbot@vocal-camera-296509.iam.gserviceaccount.com",
+  "client_id": "103110583634469282754",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/what-supchatbot%40vocal-camera-296509.iam.gserviceaccount.com"
+}
